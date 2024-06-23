@@ -1,0 +1,6 @@
+KULRIT Edges: 9596, Vertices: 702,        Beta index:  13.67
+KULRIT Edges: 9578, Vertices: 702,        Beta index:  13.64
+KULRIT Edges: 10199, Vertices: 702,        Beta index:  14.53
+KULRIT Edges: 9397, Vertices: 702,        Beta index:  13.39
+KULRIT Edges: 9864, Vertices: 702,        Beta index:  14.05
+KULRIT Edges: 9407, Vertices: 702,        Beta index:  13.40

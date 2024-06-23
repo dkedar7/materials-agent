@@ -1,0 +1,9 @@
+langchain==0.1.16
+langchain-openai==0.0.5
+embedchain==0.1.103
+fast-dash==0.2.9
+dash-bio==1.0.2
+dash-daq==0.5.0
+gunicorn==22.0.0
+python-dotenv==1.0.1
+rdkit==2023.9.6
